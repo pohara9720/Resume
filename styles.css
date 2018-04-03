@@ -95,6 +95,14 @@ h5{
 .circle{
 	align-content: center;
 }
+.skill{
+	font-size: 13px;
+	color:#00FA9A;
+}
+.dev{
+	color:  #ffff66;
+	font-weight: normal;
+}
 .con{
 	color: white;
 	border-radius:50%;
@@ -103,6 +111,7 @@ h5{
 	width: 20px;
 	margin-right: 5px;
 	float: left;
+	margin-top: 3px;
 }
 .work{
 	color: #2a2a2a;
@@ -114,6 +123,11 @@ h5{
 }
 .assign{
 	float: left;
+	margin-top: 3px;
+	margin-right: 2px;
+}
+.space{
+	margin-bottom: 6px;
 }
 .degree{
 	float: right;
