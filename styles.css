@@ -170,4 +170,12 @@ h5{
 .big{
 	font-family: 'Noto Sans', sans-serif;
 }
-
+.react{
+	font-weight: bolder;
+	font-size: 14px;
+}
+.project-title{
+	font-weight: bold;
+	font-size: 12px;
+	text-decoration: underline;
+}
